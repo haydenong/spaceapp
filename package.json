@@ -1,0 +1,22 @@
+{
+  "name": "spaceapp",
+  "version": "1.0.0",
+  "description": "HI PEOPLE",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenong/spaceapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenong/spaceapp/issues"
+  },
+  "homepage": "https://github.com/haydenong/spaceapp#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
