@@ -1,4 +1,4 @@
-.wire-frame, .solar-panel, .meteo-data, .map, .dashboard {
+.wire-frame,/* .solar-panel,*/ .meteo-data, .map, .dashboard {
   border: 5px solid black; }
 
 html, body {
@@ -10,7 +10,8 @@ html, body {
   height: 50vh; }
 
 .solar-panel {
-  min-height: 80vh; }
+  min-height: 80vh; 
+}
 
 .meteo-data {
   min-height: 15vh; }
