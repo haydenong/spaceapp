@@ -1,2 +1,17 @@
-.test .test2 h1 {
-  background-color: green; }
+.wire-frame, .solar-panel, .meteo-data, .map, .dashboard {
+  border: 5px solid black; }
+
+body {
+  height: 100%; }
+
+.solar-panel {
+  min-height: 80vh; }
+
+.meteo-data {
+  min-height: 15vh; }
+
+.map {
+  min-height: 50vh; }
+
+.dashboard {
+  min-height: 15vh; }
